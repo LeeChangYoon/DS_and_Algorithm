@@ -1,3 +1,8 @@
+/*
+그래서 구글링을 해보니, '페르마의 소정리' 라는 걸 이용하는 방법이 나왔다.
+이 정리에 대해 궁금하면 구글링 해보고, 아주 신박한 방법이였다.
+*/
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
