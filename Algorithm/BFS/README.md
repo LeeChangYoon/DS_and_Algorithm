@@ -23,4 +23,4 @@
 > * 일반적으로 큐를 이용해서 반복적 형태로 구현하는 것이 가장 잘 동작한다.
 * ‘Prim’, ‘Dijkstra’ 알고리즘과 유사하다.
 
-![bfs-examp](bfs-exampe.png)
+![bfs-examp.png](bfs-exampe.png)
