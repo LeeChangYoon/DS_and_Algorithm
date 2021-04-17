@@ -25,4 +25,4 @@
 
 
 
-![bfs-examp.png](bfs-exampe.png)
+![bfs-examp.png](https://gmlwjd9405.github.io/images/algorithm-dfs-vs-bfs/bfs-example.png)
