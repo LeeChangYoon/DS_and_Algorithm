@@ -15,5 +15,5 @@
 * 이 알고리즘을 구현할 때 가장 큰 차이점은, 그래프 탐색의 경우 어떤 노드를 방문했었는지 여부를 반드시 검사 해야 한다는 것이다.
 * 이를 검사하지 않을 경우 무한루프에 빠질 위험이 있다.
 
-### 깇이 우선 탐색 과정
+### 깊이 우선 탐색 과정
 ![DFS-example.png](https://gmlwjd9405.github.io/images/algorithm-dfs-vs-bfs/dfs-example.png)
