@@ -24,3 +24,9 @@
 
 ### 너비 우선 탐색 
 ![bfs-examp.png](https://gmlwjd9405.github.io/images/algorithm-dfs-vs-bfs/bfs-example.png)
+
+
+### BFS의 시간 복잡도
+* 인접 리스트로 표현된 그래프: O(N+E)
+* 인접 행렬로 표현된 그래프: O(N^2)
+* 깊이 우선 탐색(DFS)과 마찬가지로 그래프 내에 적은 숫자의 간선만을 가지는 **희소 그래프(Sparse Graph)** 의 경우 인접 행렬보다 인접 리스트를 사용하는 것이 유리하다.
