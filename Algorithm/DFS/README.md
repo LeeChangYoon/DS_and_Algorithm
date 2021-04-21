@@ -17,3 +17,11 @@
 
 ### 깊이 우선 탐색 과정
 ![DFS-example.png](https://gmlwjd9405.github.io/images/algorithm-dfs-vs-bfs/dfs-example.png)
+
+
+### 깊이 우선 탐색(DFS)의 시간 복잡도
+
+* DFS는 그래프(정점의 수: N, 간선의 수: E)의 모든 간선을 조회한다.
+> * 인접 리스트로 표현된 그래프: O(N+E)
+> * 인접 행렬로 표현된 그래프: O(N^2)
+* 즉, 그래프 내에 적은 숫자의 간선만을 가지는 **희소 그래프(Sparse Graph)** 의 경우 인접 행렬보다 인접 리스트를 사용하는 것이 유리하다.
