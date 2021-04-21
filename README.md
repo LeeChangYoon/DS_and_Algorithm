@@ -1,5 +1,6 @@
 # SW-Academy-Expert
-삼성 소프트웨어 아카데미 문제들 풀고 끄적이는 공간
+- 삼성 소프트웨어 아카데미 문제들 풀고 끄적이는 공간
+- [SWAE](https://swexpertacademy.com/main/main.do)
 
 ## 목표: 하루에 2문제씩!!!
 1. 할 수 있는데 까지 해보자!
