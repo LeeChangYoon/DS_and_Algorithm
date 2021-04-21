@@ -1,3 +1,14 @@
+'''
+이 문제는 처음에 DFS로 접근했다.
+그러다 곰곰히 생각 해보다 DFS로 접근 할 경우 이미 사용한 값을 다시 사용해 뭔가 효율적이지 않다는 생가기 들긴 했지만
+일단 구현해 봤다.
+
+사실 이때 BFS로 풀이를 바꿔 DP & BFS를 이용해 문제를  풀어야 했다.
+
+여튼 input값에 대한 output은 제대로 나왔지만 역시 RunTime Error가 떴다 ㅠㅠ.
+'''
+
+
 def dfs(map1, x, y, cnt, target):
     for i in range(4):
         tx = x + dx[i]
