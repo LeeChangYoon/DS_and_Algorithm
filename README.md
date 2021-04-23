@@ -1,11 +1,14 @@
 # SW-Academy-Expert
 - 삼성 소프트웨어 아카데미 문제들 풀고 끄적이는 공간
+- 주 언어는 python 이지만, 다른 언어들도 가끔 사용합니다...
+- Algoritm이나 DataStructure들은 C로 작성하려고 노력하고 있어요. (사실 전공책에서 거의 다 C로 예시를 들기 때문이에요...)
 - [SWAE](https://swexpertacademy.com/main/main.do)
 
 ## 목표: 하루에 2문제씩!!!
 1. 할 수 있는데 까지 해보자!
-2. 타겟 문제들은 D2 ~ D8 문제들중 추천수가 높고 오답률이 50% 이하인 문제들!
+2. 타겟 문제들은 D2 ~ D7 문제들중 추천수가 높고 오답률이 50% 이하인 문제들!
 3. 하루에 2문제씩 차근차근!
+4. Algorithm, DataStructure도 조금씩 공부!
 
 
 ### Day - 1
