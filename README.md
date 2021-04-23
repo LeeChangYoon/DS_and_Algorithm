@@ -1,7 +1,8 @@
 # SW-Academy-Expert
 - 삼성 소프트웨어 아카데미 문제들 풀고 끄적이는 공간
 - 주 언어는 python 이지만, 다른 언어들도 가끔 사용합니다...
-- Algoritm이나 DataStructure들은 C로 작성하려고 노력하고 있어요. (사실 전공책에서 거의 다 C로 예시를 들기 때문이에요...)
+- Algoritm이나 DataStructure들은 C로 작성하려고 노력하고 있어요. 
+> (사실 전공책에서 거의 다 C로 예시를 들기 때문이에요...)
 - [SWAE](https://swexpertacademy.com/main/main.do)
 
 ## 목표: 하루에 2문제씩!!!
