@@ -1,3 +1,12 @@
+'''
+처음에는 Dijkstra Algorithm을 통해 푸는 문제인 줄 알았다.
+그러나 문제 내에서 완전 탐색을 해도 좋으니 효율적이지 않아도 된다는 문구를 보고 살짝 뭘 사용해야 하지? 싶었다.
+구글링을 해 보니 TSP라는 알고리즘이 있더라.
+일단 N의 수가 적어 TSP를 사용하되 Greedy를 사용해 단순 DFS로 풀어봤다.
+물론 TestCase 수가 적어 풀리긴 했지만, TSP & DP를 이용해 푸는 방법을 알고 싶었다.
+그 풀이는 V2에서 확인하도록 하자!
+'''
+
 # D5 1247 최적경로
 def dfs(index, lastX, lastY, distance):
     global min_count
