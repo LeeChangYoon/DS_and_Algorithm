@@ -32,8 +32,8 @@
 - 출발도시를 정해주지 않는데 사실 어떠한 도시를 출발도시로 하던지 모든 도시를 돌아서 다시 출발도시로 돌아오는데 드는 최소 비용은 같습니다. 다시 출발 도시로 돌아오기 때문에 사이클이 발생하기 때문입니다.
 
 ![tsp_linear_example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcw8sPF%2FbtqxRuwj6TK%2FaoCEXdB2B9iKtktAp6KG11%2Fimg.png)
-이렇게 같은 경로를 두번 지나가는 것을 방지하기 위해 DP를 이요하는 것입니다.
+- 이렇게 같은 경로를 두번 지나가는 것을 방지하기 위해 DP를 이요하는 것입니다.
 
 ![tsp_dp_example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FNAYG4%2FbtqxRuC77Ie%2FR7LUccEuyHxXgbrDPeLrV1%2Fimg.png)
-이렇게 1번 도시에서 2,3,4,5 번 도시로 이동했을 때 각 도시에서 남은 도시들을 지나 다시 출발 도시로 돌아오는 최소 비용들 중 최소인 값이 우리가 구하고자 하는 값이 됩니다. 
+- 이렇게 1번 도시에서 2,3,4,5 번 도시로 이동했을 때 각 도시에서 남은 도시들을 지나 다시 출발 도시로 돌아오는 최소 비용들 중 최소인 값이 우리가 구하고자 하는 값이 됩니다. 
 
