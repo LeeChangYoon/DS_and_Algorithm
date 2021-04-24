@@ -60,7 +60,7 @@
 1486. 장훈이의 높은 선반 (D4, 72.72%)
 
 
-### Day - 9
+### Day - 9 (WTF is the TSP?)
 :pencil2: TSP Algorithm 공부
 
 1247. 최적 경로 (D5, 85.45%)
