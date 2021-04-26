@@ -1,3 +1,9 @@
+'''
+되게 유명한 문제인 N-Queen 문제이다.
+DFS로 풀면 되며 다음 queen을 검사할 때 이전 Queen과 가로, 왼쪽 오른쪽 대각선에 Queen이 안 만나는 지만 검사 해줘서 풀면 되는 문제이다. 
+'''
+
+
 def dfs(x):
     global answer
 
