@@ -103,7 +103,7 @@
 
 
 ## Day - 19
-:pencil2: Programmers 문제 풀이 (Level 1~3)
+:pencil2: Programmers 문제 풀이 (Level 1~3) & 이때까지 푼 문제 
 * 흠... Level 3문제들이 조금씩 풀리고 있는 상황이다.
 * DFS, BFS는 이제 어떻게 접근해야 할지 아는 상태.
 * Hash를 이용 하는 방법도 어느 정도 알았다.
