@@ -39,11 +39,11 @@ def dfs(node):
 
     if N == 1:
         answer = node.data
+        return
 
     if node.left:
         N -= 1
         dfs(node.left)
-
     if node.right:
         N -= 1
         dfs(node.right)
@@ -55,6 +55,7 @@ def bfs(node):
 
     if N == 1:
         answer = node.data
+        return
 
     if node.left:
         queue.append(node.left)
