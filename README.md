@@ -108,3 +108,7 @@
 * DFS, BFS는 이제 어떻게 접근해야 할지 아는 상태.
 * Hash를 이용 하는 방법도 어느 정도 알았다.
 * DP, Tree를 이용하는 방법은 아직 조금  더 공부해야 한다.
+
+
+## Day - 20
+:pencil2: DFS & BFS Algorithm using in the BST(Binary Search Tree)
