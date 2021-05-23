@@ -24,21 +24,21 @@
 
 
 ### Day - 3 (Playing with DFS and BFS)
-:pencil2: DFS & BFS Algorithm 공부
+✏️ DFS & BFS Algorithm 공부
 
 2814. 최장 경로 (D3, 27.79%)
 2819. 격자판의 숫자 이어 붙이기 (D4, 49.27%)
 
 
 ### Day - 4
-:pencil2: DP (Dynamic Programming) 공부
+✏️ DP (Dynamic Programming) 공부
 
 3459. 승자 예측하기 (D4, 37.31%)
 3752. 가능한 시험 점수 (D4, 31.62)
 
 
 ### Day - 5
-:pencil2: 점근적, Big-θ, Big-O, Big-Ω 표기법
+✏️ 점근적, Big-θ, Big-O, Big-Ω 표기법
 
 1824. 혁진이의 프로그램 검증 (D4, 31.89%)
 4408. 자기 방으로 돌이가기 (D4, 23.51)
@@ -76,14 +76,14 @@
 
 
 ### Day - 11
-:pencil2: DP(Dynamic Programming)을 통한 BackTracking
+✏️ DP(Dynamic Programming)을 통한 BackTracking
 
 1767. 프로세스 연결하기 (SW Test Sample, 35.55%)
 6109. 추억의 2048게임 (D4, 42.68%)
 
 
 ### Day - 12
-:pencil2: Programmers 실력체크 1, 2, 3
+✏️ Programmers 실력체크 1, 2, 3
 
 * 실력체크 1: So EZ
 * 실력체크 2: 그냥 그럭저럭, 중간에 큐 사용해야 하는데 살짝 멈칫함
@@ -92,7 +92,7 @@
 
 
 ## Day - 13 ~ 18
-:pencil2: Programmers 문제 풀이 (Level 1~3)
+✏️ Programmers 문제 풀이 (Level 1~3)
 * 계속해서 뭔가에 홀린 듯이 Programmers 문제들을 풀었던 날들이였던 것 같다.
 * 사실 문제 푼 코드들도 여기에 업데이트 해서 차근차근 복습해야 하는 것이 맞지만 계속해서 Level 3 문제들에서 막히는 나를 보고 오기가 생겨 문제만 미친듯이 푼 5일이였던 것 같다.
 * 총 20문제를 풀었다. 
@@ -103,7 +103,7 @@
 
 
 ## Day - 19
-:pencil2: Programmers 문제 풀이 (Level 1~3) & 이때까지 푼 문제 
+✏️ Programmers 문제 풀이 (Level 1~3) & 이때까지 푼 문제 
 * 흠... Level 3문제들이 조금씩 풀리고 있는 상황이다.
 * DFS, BFS는 이제 어떻게 접근해야 할지 아는 상태.
 * Hash를 이용 하는 방법도 어느 정도 알았다.
@@ -111,4 +111,8 @@
 
 
 ## Day - 20
-:pencil2: DFS & BFS Algorithm using in the BST(Binary Search Tree)
+✏️ DFS & BFS Algorithm using in the BST(Binary Search Tree)
+
+
+## Daay - 21
+✏️ Python 문자열 정규식 표현 -> re
