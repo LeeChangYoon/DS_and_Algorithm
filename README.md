@@ -114,5 +114,6 @@
 ✏️ DFS & BFS Algorithm using in the BST(Binary Search Tree)
 
 
-## Daay - 21
+## Day - 21
 ✏️ Python 문자열 정규식 표현 -> **re**
+
