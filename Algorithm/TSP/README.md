@@ -8,9 +8,9 @@
 
 ## DP를 사용했을 때의 TSP 점화식 표현
 - **DP[current][visited] = MIN(DP[current][visited], TSP(next, visited + next) + W[current][next]**
-> current: 현재 위치한 도시
-> visited: 방문한 도시(편의를 위해 bitmap으로 표현 해준다.)
-> W[i][j]: i번 도시에서 j번 도시로 가는데 걸리는 시간(Weight, 가중치)
+> * current: 현재 위치한 도시
+> * visited: 방문한 도시(편의를 위해 bitmap으로 표현 해준다.)
+> * W[i][j]: i번 도시에서 j번 도시로 가는데 걸리는 시간(Weight, 가중치)
 
 ## TSP 기본 원리
 - **DP**는 특정 도시들을 방문한 상태일 때 최소 비용을 저장해 놓고 이를 사용합니다.
